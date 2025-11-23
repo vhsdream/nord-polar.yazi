@@ -6,10 +6,9 @@
  Nord Polar Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
 </h3>
 
-<!-- ## 👀 Preview -->
-<!---->
-<!-- <img src="preview.png" width="600" /> -->
-<!---->
+## 👀 Preview
+
+<img src="preview.png" width="600" />
 
 ## 🎨 Installation
 
